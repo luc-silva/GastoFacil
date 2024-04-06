@@ -1,0 +1,6 @@
+[submodule "GastoFacil-front"]
+	path = GastoFacil-front
+	url = https://github.com/luc-silva/GastoFacil-front.git
+[submodule "GastoFacil-api"]
+	path = GastoFacil-api
+	url = https://github.com/luc-silva/GastoFacil-api.git
